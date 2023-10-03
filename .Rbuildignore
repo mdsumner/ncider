@@ -1,2 +1,4 @@
 ^ncider\.Rproj$
 ^\.Rproj\.user$
+^\.github$
+^data-raw$
